@@ -28,10 +28,7 @@
       },
       "currency": {
         "type": "string",
-        "oneOf": [
-          { "equalTo": "RUB" },
-          { "equalTo": "USD" }
-        ]
+        "currency_type": { "enum": ["RUB", "USD", "RUB"] }
       }
     }
   }
