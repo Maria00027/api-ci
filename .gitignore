@@ -1,3 +1,5 @@
+Thumbs.db*
+.DS_Store
 HELP.md
 .gradle
 build/
@@ -10,7 +12,6 @@ build/
 .settings
 .springBeans
 .sts4-cache
-.DS_Store
 
 ### IntelliJ IDEA ###
 .idea
@@ -42,3 +43,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+Footer
